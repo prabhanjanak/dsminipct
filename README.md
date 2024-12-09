@@ -18,8 +18,8 @@ This project is a data science application built using Streamlit. It displays hi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd weather-data-analysis
+   git clone https://github.com/prabhanjanak/dsminipct
+   cd dsminipct
    ```
 
 2. Install dependencies:
@@ -29,7 +29,7 @@ This project is a data science application built using Streamlit. It displays hi
 
 3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 4. Access the app in your browser at `http://localhost:8501`.
